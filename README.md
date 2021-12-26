@@ -6,6 +6,6 @@ Nama Anggota Kelompok :
 
 
 Pembagian Tugas Kelompok :
-- Dwi Kurniawan :
-- Chiara Talita Diva Permatasari :
-- TRI DUTA DEWAN TANTRA GATA :
+- Dwi Kurniawan : Membuat Repository github, membuat class nasabah, individu, rekening, perusahaan, berikut dengan method setter getternya.
+- Chiara Talita Diva Permatasari : Membuat tampilan UI program koperasi, menghubungkan program dengan database MySQL.
+- TRI DUTA DEWAN TANTRA GATA : Menghubungkan controller dengan file fxml, lalu mengatur action yang akan dilakukan pada program tersebut
