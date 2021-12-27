@@ -12,7 +12,11 @@ Pembagian Tugas Kelompok :
 
 
 Class Diagram :
+
+
 ![class diagram](https://user-images.githubusercontent.com/83540724/147491281-56bb7d23-8ef9-45c2-bef8-d4d89e6fcec0.png)
 
 ERD Diagram :
+
+
 ![erd diagram](https://user-images.githubusercontent.com/83540724/147491300-ae603975-dd1a-4e9a-bb2b-f00b93f4486e.png)
